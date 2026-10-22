@@ -7,4 +7,4 @@ python 3.13+
 
 ## installation:
 
-figure that shit on ur own
+figure that shit out on ur own i cba to explain
